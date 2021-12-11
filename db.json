@@ -1,1 +1,6 @@
-hello
+{
+  "id": 1,
+  "name": "user",
+  "username": "IzI",
+  "email": "IzI@gmail.com"
+}
